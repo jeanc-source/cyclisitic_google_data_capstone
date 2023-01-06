@@ -26,4 +26,7 @@ Compare members and casual users
 See the average ride time by each day for members vs casual users
 
 # Share
+Visualisations were provided on the r mark-up report.
+
 # Act
+Top 3 recommendations based on analysis are found in the r mark-up report. 
