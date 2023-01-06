@@ -1,7 +1,7 @@
 # cyclisitic_google_data_capstone
 Google Analytics Capstone Project using Cyclistic (Divvy) bike data
 # Objective (Ask)
-This analysis was carried out to provide insights into the behavior of current annual memberships. Understanding why member types of annual memberships were favored will inform Cyclistic's goal to maximize the number of annual memberships. 
+This analysis was carried out to provide insights into the behavior of current annual memberships. Insights should inform the marketing strategy to convert casual riders to annual. 
 # Prepare
 ## Source
 Cyclistic trip data from company website.
