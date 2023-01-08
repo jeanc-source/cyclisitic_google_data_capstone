@@ -29,6 +29,9 @@ Compare station location hotspots for users
 
 # Share
 Powerpoint presentation outlining key findings and recommendations.
+Tableau Public workings: 
+https://public.tableau.com/views/GoogleDataAnalyticsCert_16731284414490/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link 
+https://public.tableau.com/views/GoogleDataAnalyticsCourseMaps/HeatMaps_1?:language=en-US&:display_count=n&:origin=viz_share_link 
 
 # Act
 Top 3 recommendations based on analysis are found in powerpoint presentation. 
