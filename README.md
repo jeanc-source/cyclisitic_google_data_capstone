@@ -23,10 +23,12 @@ The following steps were carried out to prepare the data for processing:
 
 # Analysis
 Compare members and casual users
-See the average ride time by each day for members vs casual users
+Compare day or week, month by user type
+Compare type of bikes preferred by user
+Compare station location hotspots for users
 
 # Share
-Visualisations were provided on the r mark-up report.
+Powerpoint presentation outlining key findings and recommendations.
 
 # Act
-Top 3 recommendations based on analysis are found in the r mark-up report. 
+Top 3 recommendations based on analysis are found in powerpoint presentation. 
